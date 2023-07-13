@@ -11,5 +11,5 @@ This repository contains the LeetCode 75 Study Plan, which consists of a curated
 - [ ] 605. Can Place Flowers
 - [ ] 151. Reverse Words in a String
 - [x] 238. Product of Array Except Self
-- [ ] 334. Increasing Triplet Subsequence
-- [ ] 443. String Compression
+- [x] 334. Increasing Triplet Subsequence
+- [x] 443. String Compression
