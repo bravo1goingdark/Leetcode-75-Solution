@@ -1,4 +1,4 @@
-public class compress {
+public class compresss {
     public int compress(char[] chars) {
         if (chars == null || chars.length == 0) {
             return 0;
