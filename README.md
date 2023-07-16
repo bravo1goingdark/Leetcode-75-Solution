@@ -18,3 +18,4 @@ This repository contains the LeetCode 75 Study Plan, which consists of a curated
 ### Two-Pointer
 
 - [x] 283. Move Zeroes
+- [x] 392. Is Subsequence
