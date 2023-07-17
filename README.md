@@ -1,6 +1,8 @@
 # Leetcode-75-Solution
 This repository contains the LeetCode 75 Study Plan, which consists of a curated list of 75 LeetCode questions covering various topics in computer science and algorithms. The questions are categorized into different topics to help you focus on specific areas of study.
 
+https://leetcode.com/studyplan/leetcode-75/
+
 
 ### Array/String
 
@@ -19,3 +21,5 @@ This repository contains the LeetCode 75 Study Plan, which consists of a curated
 
 - [x] 283. Move Zeroes
 - [x] 392. Is Subsequence
+- [x] 11. Container With Most Water
+- [x] 1679. Max Number of K-Sum Pairs
