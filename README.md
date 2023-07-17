@@ -17,7 +17,7 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 443. String Compression
 
 
-### Two-Pointer
+### Two-Pointers
 
 - [x] 283. Move Zeroes
 - [x] 392. Is Subsequence
