@@ -23,3 +23,9 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 392. Is Subsequence
 - [x] 11. Container With Most Water
 - [x] 1679. Max Number of K-Sum Pairs
+
+
+### Sliding - Window
+
+- [x] 643. Maximum Average Subarray I
+- [x] 1456. Maximum Number of Vowels in a Substring of Given Length
