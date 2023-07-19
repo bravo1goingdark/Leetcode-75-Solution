@@ -29,3 +29,11 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - [x] 643. Maximum Average Subarray I
 - [x] 1456. Maximum Number of Vowels in a Substring of Given Length
+- [x] 1004. Max Consecutive Ones III
+- [x] 1493. Longest Subarray of 1's After Deleting One Element
+
+### Prefix-Sum
+
+- [x] 1732. Find the Highest Altitude
+- [x] 724. Find Pivot Index
+- [x] 1991. Find the Middle Index in Array
