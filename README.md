@@ -37,3 +37,9 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 1732. Find the Highest Altitude
 - [x] 724. Find Pivot Index
 - [x] 1991. Find the Middle Index in Array
+
+### Stack
+
+- [x] 2390. Removing Stars From a String
+- [x] 735. Asteroid Collision
+- [] 394. Decode String
