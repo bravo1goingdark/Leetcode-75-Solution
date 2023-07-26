@@ -42,4 +42,8 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - [x] 2390. Removing Stars From a String
 - [x] 735. Asteroid Collision
-- [] 394. Decode String
+- [x] 394. Decode String
+### Queue
+
+- [x] 933. Number of Recent Calls
+- [x] 649. Dota2 Senate
