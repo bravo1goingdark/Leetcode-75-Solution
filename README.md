@@ -47,3 +47,10 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - [x] 933. Number of Recent Calls
 - [x] 649. Dota2 Senate
+
+### Linked List
+
+- [x] 2095. Delete the Middle Node of a Linked List
+- [x] 328. Odd Even Linked List
+- [x] 206. Reverse Linked List
+- [x] 2130. Maximum Twin Sum of a Linked List
