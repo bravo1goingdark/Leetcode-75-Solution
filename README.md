@@ -54,3 +54,11 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 328. Odd Even Linked List
 - [x] 206. Reverse Linked List
 - [x] 2130. Maximum Twin Sum of a Linked List
+
+
+### Binary Tree - DFS
+
+- [x] 104. Maximum Depth of Binary Tree
+- [x] 872. Leaf-Similar Trees
+- [x] 1448. Count Good Nodes in Binary Tree
+- [] 437. Path Sum III
