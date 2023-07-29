@@ -62,3 +62,7 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 872. Leaf-Similar Trees
 - [x] 1448. Count Good Nodes in Binary Tree
 - [] 437. Path Sum III
+- [x] 1372. Longest ZigZag Path in a Binary Tree
+- [x] 236. Lowest Common Ancestor of a Binary Tree
+
+
