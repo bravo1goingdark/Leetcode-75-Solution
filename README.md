@@ -58,11 +58,15 @@ https://leetcode.com/studyplan/leetcode-75/
 
 ### Binary Tree - DFS
 
-- [x] 104. Maximum Depth of Binary Tree
+
 - [x] 872. Leaf-Similar Trees
 - [x] 1448. Count Good Nodes in Binary Tree
 - [] 437. Path Sum III
 - [x] 1372. Longest ZigZag Path in a Binary Tree
 - [x] 236. Lowest Common Ancestor of a Binary Tree
 
+
+### Binary Tree - BFS
+- [x] 199. Binary Tree Right Side View
+- [x] 1161. Maximum Level Sum of a Binary Tree
 
