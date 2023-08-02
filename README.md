@@ -70,3 +70,9 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 199. Binary Tree Right Side View
 - [x] 1161. Maximum Level Sum of a Binary Tree
 
+## Binary Search Tree
+
+- [x] 700. Search in a Binary Search Tree
+- [x] 450. Delete Node in a BST 
+
+
