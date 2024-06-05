@@ -1,5 +1,5 @@
 # Leetcode-75-Solution
-This repository contains the LeetCode 75 Study Plan, which consists of a curated list of 75 LeetCode questions covering various topics in computer science and algorithms. The questions are categorized into different topics to help you focus on specific areas of study.
+This repository contains the LeetCode 75 Study Plan, which consists of a curated list of 75 LeetCode questions covering various topics in data structure and algorithms. The questions are categorized into different topics to help us focus on specific areas of study.
 
 https://leetcode.com/studyplan/leetcode-75/
 
@@ -82,3 +82,7 @@ https://leetcode.com/studyplan/leetcode-75/
 - [x] 547. Number of Provinces
 
 
+### Binary Search
+
+- [x] 374. Guess Number Higher or Lower
+- [x] 2300. Successful Pairs of Spells and Potions
