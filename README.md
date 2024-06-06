@@ -86,3 +86,8 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - [x] 374. Guess Number Higher or Lower
 - [x] 2300. Successful Pairs of Spells and Potions
+
+
+### Bit Manipulation
+
+- [x] 338. Counting Bits
